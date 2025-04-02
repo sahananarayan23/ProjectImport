@@ -1,0 +1,6 @@
+page\RegisterPateintPage.class
+page\UpdatePatientPage.class
+OpenMRSProject\OpenMRSProject\AppTest.class
+stepDefinition\MRSSteps.class
+page\LoginPage.class
+TestRunner\TestRunner.class
